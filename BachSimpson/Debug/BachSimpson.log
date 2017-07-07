@@ -1,0 +1,25 @@
+﻿  Source.c
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(59): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(123): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(123): warning C4024: 'allocError': different types for formal and actual parameter 1
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(125): warning C4013: 'strtok' undefined; assuming extern returning int
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(125): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(137): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(137): warning C4024: 'allocError': different types for formal and actual parameter 1
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(140): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(231): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(341): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(462): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(498): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(498): warning C4024: 'checksumFunc': different types for formal and actual parameter 1
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(356): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(360): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(431): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(318): warning C4101: 'messageChar': unreferenced local variable
+c:\users\moham\documents\visual studio 2017\projects\bachsimpson\bachsimpson\source.c(567): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  BachSimpson.vcxproj -> C:\Users\moham\Documents\Visual Studio 2017\Projects\BachSimpson\Debug\BachSimpson.exe
+  BachSimpson.vcxproj -> C:\Users\moham\Documents\Visual Studio 2017\Projects\BachSimpson\Debug\BachSimpson.pdb (Partial PDB)
